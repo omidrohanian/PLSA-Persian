@@ -6,8 +6,8 @@ The program classifies documents into K separate groups (K is manually set to be
 
 Tokenization and Normalization of text was done using the open source NLP package [Hazm](https://pypi.python.org/pypi/hazm/0.4). Stop words were deleted in the preprocessing stage. The Persian stop words were taken from here:
 
-**Kazem Taghva, Russell Beckley, Mohammad Sadeh(2003) A List of Farsi Stop
-words, ISRI Technical Report No. 2003-01 Information Science Research Institute University of Nevada, Las Vegas**
+*Kazem Taghva, Russell Beckley, Mohammad Sadeh(2003) A List of Farsi Stop
+words, ISRI Technical Report No. 2003-01 Information Science Research Institute University of Nevada, Las Vegas*
 
 I also borrowed code from a github repo that seems to have been removed for a while. If you happen to know the original source drop me a line and I'll give proper reference. 
 
