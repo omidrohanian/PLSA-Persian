@@ -1,4 +1,4 @@
-Author: Mojtaba "Omid" Rohanian
+Author: Omid Rohanian
 
 This project uses [Probabilistic Latent Semantic Analysis](https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis) to categorize textual data into separate semantic groups. There are 15 random text documents in Persian, each can be uniquely mapped to a separate subject: "15-day weight loss diet plan", "religion" and "chess". 
 
